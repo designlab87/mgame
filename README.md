@@ -24,4 +24,4 @@ This project will eventually be licensed under the MIT License
 
 ## Acknowledgments
 
-* We will acknowledge you when you get off you ass and help us build :)
+* We will acknowledge you when you get off your ass and help us build :)
