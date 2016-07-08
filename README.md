@@ -4,14 +4,14 @@ This is a repository set up for Seth and Bryce to research and test mobile game 
 
 ## Javascript game frameworks we are considering
 
-http://craftyjs.com/
-http://phaser.io/
-http://www.html5quintus.com/
+* [craftyjs](http://craftyjs.com/)
+* [phaser.io](http://phaser.io/)
+* [html5quintus](http://www.html5quintus.com/)
 
 ## Build platforms being considered
 
-https://build.phonegap.com/
-http://cordova.apache.org/
+* [phonegap](https://build.phonegap.com/)
+* [cordova](http://cordova.apache.org/)
 
 ## Authors
 
