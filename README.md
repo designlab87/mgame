@@ -16,7 +16,7 @@ http://cordova.apache.org/
 ## Authors
 
 * **Bryce Phillips** - [Github](https://github.com/brycecold)
-* **Seth Watson** - [Github](https://github.com/designlab87)
+* **Seth Watson** - [Github](https://github.com/designlab87), [Github](https://github.com/spotsdev)
 
 ## License
 
